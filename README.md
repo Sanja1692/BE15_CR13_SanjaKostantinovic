@@ -1,30 +1,6 @@
 # BE15_CR13_SanjaKostantinovicCode Review 13
-Good Morning Students!
-
-Welcome to your last Code Review in this course. 
-
-You will need to achieve more than 60 points to pass this CodeReview successfully. 
-
-You will be graded according to the results achieved. Please see the number of points for each task below. 
-
-The grading system has the following rules:
-
-Up to 60 points = red
-
-Between 61 and 79 = yellow
-
-Over 80 = green
-
-You can submit your solution (as GitHub project link) until Saturday at 18:00:00.
-
- 
-
 Project description:
  
-
-
-
-
 A global event management company needs a web application to track events. They would need to have a list of all their events with the following data:
 
 Event’s name
